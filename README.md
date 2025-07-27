@@ -1,4 +1,10 @@
 # Uber Fare Data Analysis Project
+### 🔍 Course: INSY 8413 - Introduction to Big Data Analytics  
+**Instructor:** Eric Maniraguha  
+**Student:**  ISIMWE Honore  
+**ID:** 26578   
+**Date:** July 2025  
+
 
 ## Overview
 This project analyzes Uber ride data to understand fare patterns, identify outliers, and create meaningful visualizations. The analysis includes data cleaning, feature engineering, statistical analysis, and comprehensive visualizations.
