@@ -169,6 +169,15 @@ plt.clf()
 # Export cleaned and enhanced dataset
 df_clean.to_csv('uber_enhanced.csv', index=False)
 ```
+## outputs
+
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/eaf809b9-0806-4848-9256-32e36018d582" />
+
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/0a0b57c1-e80d-49a9-9585-c0b61bf1aac1" />
+
+## DASHBOARD
+
+<img width="1366" height="768" alt="dashboard" src="https://github.com/user-attachments/assets/c4175ed9-574d-454c-ad11-cf545495615d" />
 
 ## Key Findings
 
